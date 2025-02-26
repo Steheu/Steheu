@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there! I am Steffen!
 
-<!--
-**Steheu/Steheu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♂️ I am 33 years old, I am living in the middle of Germany and work full-time for the state. In my freetime i code here and there and want to continue down this path.
 
-Here are some ideas to get you started:
+## A little bit about where my journey started
+I started getting to know code while i was in school and since then i continued to code here and there. Lately I put a bit more focus into coding and I participated in some coding seminars and want to share some of the code here. 
+Since coding is a lot of fun for me, i might push this a bit more. Who knows what will happen? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Whats next?
+While the seminars I participated in were very interesting and compelling, I want to take the code and put some of my twist to it, so it's more than just the code from the seminar. I want to make it my own. And this is exactly why i start to use Github and want to keep learning.
+
+Here are some of my interests for now, which you can expect to see more of in the future:
+1. Webscraping with Pycharm in Python
+2. Build a web application in Python with Flask
+3. Analyse Data in Python with Pandas and Numpy
+4. Create Plots in Python using Matplotlib
+5. Data Analysis Porjects in SQL, R and visualizations in Tableau
+
+
+Soon you can find these projects in my GitHub repos.
+
+Right now i try to commit to code more and learn a lot more. 
+
+Come join the journey with me!
+
+*Steffen*
