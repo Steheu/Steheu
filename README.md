@@ -7,9 +7,9 @@ I started getting to know code while i was in school and since then i continued 
 Since coding is a lot of fun for me, i might push this a bit more. Who knows what will happen? 
 
 ### Whats next?
-While the seminars I participated in were very interesting and compelling, I want to take the code and put some of my twist to it, so it's more than just the code from the seminar. I want to make it my own. And this is exactly why i start to use Github and want to keep learning.
+While the seminars I participated in were very interesting and compelling, I want to take the code and put some of my twist to it, so it's more than just the code from the seminar and combine the things i learned. I want to make it my own. And this is exactly why i start to share my code and use Github.
 
-Here are some of my interests for now, which you can expect to see more of in the future:
+Here are some of the projects for now, which you can expect to see in my repos:
 1. Webscraping with Pycharm in Python
 2. Build a web application in Python with Flask
 3. Analyse Data in Python with Pandas and Numpy
