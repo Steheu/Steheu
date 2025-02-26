@@ -22,5 +22,3 @@ Soon you can find these projects in my GitHub repos.
 Right now i try to commit to code more and learn a lot more. 
 
 Come join the journey with me!
-
-*Steffen*
